@@ -1,8 +1,10 @@
 Wordpress Plugin: Liveplayer
 =======================================
 
+Mit dem ReliveRadio Liveplayer Shortcode für Wordpress, kannst Du ReliveRadio ganz einfach in deinen Blog einfügen.
 
-### Vorschau
+
+#### Vorschau
 
 <img src="https://raw.github.com/ReliveRadio/reliveradio-wordpress-plugin_liveplayer/master/screenhot.png">
 
