@@ -3,6 +3,7 @@ Wordpress Plugin: Liveplayer
 
 Mit dem ReliveRadio Liveplayer Shortcode für Wordpress, kannst Du ReliveRadio ganz einfach in deinen Blog einfügen.
 
+Version: 2.7.0
 
 #### Vorschau
 

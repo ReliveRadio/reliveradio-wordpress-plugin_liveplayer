@@ -3,7 +3,7 @@
 Plugin Name:  Relive Radio Shortcode
 Description:  Bindet den Relive Player in eine Seite über einen Shortcode [relive-radio style="mix" color="#f00"]
 Plugin URI:   http://labs.wikibyte.org
-Version:      1.6
+Version:      2.7.0
 Author:       Michael McCouman jr.
 Author URI:   http://wikibyte.org/
 Props:        Michael McCouman jr.
@@ -90,7 +90,7 @@ function rl_include( $atts ) {
     
     #
     # standalone player
-    $relive_player_url = 'http://cm.wikibyte.org/testcodes/neu-chapters/standalone.php?stream='.$rlive_stream.'&css='.$rlive_css.'&liste='.$reliveListe.'&color='.$rlive_coloring.'';
+    $relive_player_url = 'http://liveplayer.reliveradio.de/standalone-live-playerapi/standalone.php?stream='.$rlive_stream.'&css='.$rlive_css.'&liste='.$reliveListe.'&color='.$rlive_coloring.'';
 		
 		//player outs
 		$relive_player_out = $relive_player_url;
