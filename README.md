@@ -14,9 +14,9 @@ Version: 2.7.0
 
 ----
 
-###Shortcode [relive-radio ....]
+### Shortcode [relive-radio ....]
 
-#####Stream
+##### Stream
 
 Du kannst nach dem registrieren unter "Plugins" den Shortcode in ein Artikel oder Postbeitrag anwenden. Zum auswählen des Streams nutzen den folgenden Code:
 
@@ -30,7 +30,7 @@ Du kannst nach dem registrieren unter "Plugins" den Shortcode in ein Artikel ode
 - kultur-mobile
 
 
-#####Anzahl der Liste
+##### Anzahl der Liste
 
 Du kannst die Anzahl der angezeigten Podcasts in der Liste beeinflussen,
 diese zeigt Informationen der gerade gesendeten Podcast Episode, mit Podcastnamen,
@@ -40,7 +40,7 @@ Beispiel:
 
 [relive-radio ... liste="5"]
 
-#####Relive Style
+##### Relive Style
 
 Du kannst deinen Relive Webplayer auch den typischen Relive Style zum richtigen Stream verpassen:
 
@@ -53,7 +53,7 @@ Beispiel:
 [relive-radio ... style="mix"]
 
 
-#####Fixieren
+##### Fixieren
 
 Du kannst deinen WebPlayer fixieren, wenn dieser nicht exakt angezeigt wird. Nutze dabei die folgende Angaben:
 
@@ -71,7 +71,7 @@ Du kannst deinen WebPlayer fixieren, wenn dieser nicht exakt angezeigt wird. Nut
 
 
 
-###Unterstützen
+### Unterstützen
 <!--Relive Radio-->
 <a href="http://flattr.com/thing/973782/ReliveRadio-de-Podcasts-rund-um-die-Uhr">
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
